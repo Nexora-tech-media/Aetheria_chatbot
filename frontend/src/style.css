@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-primary: "Poppins", sans-serif;
+    --color-primary-50: oklch(97.73% 0.0065 185.28);
+    --color-primary-100: oklch(93.69% 0.017 192.35);
+    --color-primary-200: oklch(88.39% 0.0286 196.65);
+    --color-primary-300: oklch(80.87% 0.0492 194.59);
+    --color-primary-400: oklch(70.44% 0.0765 194.47);
+    --color-primary-500: oklch(63.7% 0.0941 194.14);
+    --color-primary-600: oklch(60.39% 0.1022 194.79);
+    --color-primary-700: oklch(50.57% 0.0806 194.91);
+    --color-primary-800: oklch(44.39% 0.0668 195.02);
+    --color-primary-900: oklch(39.23% 0.0557 193.39);
+    --color-primary-950: oklch(28.76% 0.0331 192.32);
+    --color-primary: #069494;
+    --color-black: #0E1111;
+    --color-neutral-50: #FEFEFE;
+    --color-neutral-100: #E9E9E9;
+    --color-neutral-200: #D8D8D8;
+    --color-neutral-300: #C1C1C1;
+    --color-neutral-400: #A0A0A0;
+    --color-neutral-500: #8C8C8C;
+    --color-neutral-600: #7A7A7A;
+    --color-neutral-700: #666666;
+    --color-neutral-800: #535453;
+    --color-neutral-900: #464646;
+    --color-neutral-950: #2B2B2B;
+}
