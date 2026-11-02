@@ -28,3 +28,8 @@
     --color-neutral-900: #464646;
     --color-neutral-950: #2B2B2B;
 }
+
+
+@utility scale {
+    scale: 105%;
+}
